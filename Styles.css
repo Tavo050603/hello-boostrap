@@ -1,0 +1,13 @@
+.container{
+    background: grey;
+    margin-bottom: 20px;
+}
+.container-fluid{
+    background: gray;
+}
+.col-12{
+    border: solid black 2px;
+}
+.progress{
+    margin-bottom: 20px;
+}
